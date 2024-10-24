@@ -52,7 +52,7 @@ and might break if they change. No guarantees, but I'll try to keep it updated!
 
 Made with ❤️ 
 If this helped your travel planning, consider giving it a ⭐  
-**PS**: If you're from **IRCTC's tech team** and reading this - please make an official API! 🙏
+**PS**: Its Region Locked, So it only works in India 
 
 
 
